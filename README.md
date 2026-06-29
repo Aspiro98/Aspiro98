@@ -34,6 +34,20 @@
 * System Design
 * Cloud Architecture
 
+## 💡 Engineering Interests
+
+- Backend Engineering
+- Distributed Systems
+- AI Infrastructure
+- Cloud Computing
+- System Design
+
+## 🎯 2026 Goals
+
+- Build a production-grade distributed systems project
+- Contribute to open-source software
+- Deepen expertise in cloud-native backend engineering
+
 ## 🤝 Let's Connect
 
 * LinkedIn: [Akarsh Jana](https://www.linkedin.com/in/akarshjana/)
