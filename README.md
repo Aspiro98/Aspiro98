@@ -11,22 +11,22 @@
 
 ## 🛠️ Tech Stack
 
-**Languages**
+**Languages:**
 Java • Go • Python • JavaScript • TypeScript
 
-**Backend**
+**Backend:**
 Spring Boot • Flask • Node.js • REST APIs • gRPC
 
-**Frontend**
+**Frontend:**
 React • Vite • Tailwind CSS
 
-**Databases**
+**Databases:**
 PostgreSQL • MySQL • SQLite
 
-**Cloud & DevOps**
+**Cloud & DevOps:**
 Docker • AWS • GitHub Actions
 
-**AI / ML**
+**AI / ML:**
 PyTorch • OpenAI API • Ray
 
 ## ⭐ Featured Projects
