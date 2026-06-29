@@ -1,16 +1,40 @@
-## Hi there 👋
+-------------------------------------------------
 
-<!--
-**Aspiro98/Aspiro98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+👋 Hi, I'm Akarsh Jana
 
-Here are some ideas to get you started:
+Software Engineer building scalable backend systems,
+distributed platforms, and AI infrastructure.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently working on
+
+🚀 Distributed AI Infrastructure
+🚀 Backend Systems
+🚀 Cloud-native Applications
+
+Tech Stack
+
+Java | Go | Python
+Spring Boot | Flask
+PostgreSQL | Docker | AWS
+React | TypeScript
+
+Featured Projects
+
+⭐ AI Resume Intelligence Platform
+
+⭐ AI Learning Platform
+
+⭐ Distributed AI Compute Platform (Coming Soon)
+
+Currently Learning
+
+System Design
+Distributed Systems
+Cloud Architecture
+
+Connect
+
+LinkedIn: https://www.linkedin.com/in/akarshjana/
+Email: akarshjana03091999@gmail.com
+
+-------------------------------------------------
